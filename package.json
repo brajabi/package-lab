@@ -5,5 +5,10 @@
   "license": "MIT",
   "scripts": {
     "start": "node start.js"
+  },
+  "repository": "https://github.com/brajabi/package-lab.git",
+  "author": "'Behnam <b.rajabifard@gmail.com>",
+  "devDependencies": {
+    "webpack": "^3.5.5"
   }
 }
