@@ -4,6 +4,7 @@
   "main": "start.js",
   "license": "MIT",
   "scripts": {
+    "build": "webpack",
     "start": "node start.js"
   },
   "repository": "https://github.com/brajabi/package-lab.git",
