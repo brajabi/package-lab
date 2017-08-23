@@ -10,6 +10,9 @@
   "repository": "https://github.com/brajabi/package-lab.git",
   "author": "'Behnam <b.rajabifard@gmail.com>",
   "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
     "webpack": "^3.5.5"
   }
 }

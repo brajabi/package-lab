@@ -6,6 +6,14 @@ const config = {
   output: {
     path: path.resolve('dist'),
     filename: 'bundle.js'
+  },
+  module: {
+    rule: [
+      {
+        test: /.js$/,
+        loader: 'babel-loader'
+      }
+    ]
   }
 };
 
