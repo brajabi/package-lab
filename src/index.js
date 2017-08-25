@@ -5,7 +5,7 @@ const App = () => (
   <div>hello</div>
 );
 
-React.render(
+ReactDOM.render(
   <App />, 
   document.getElementById('root')
 );
